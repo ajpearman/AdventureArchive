@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace AdventureArchive.Models
 {
-    // Armor class for items - 
     public class Armor
     {
         [ScaffoldColumn(false)]

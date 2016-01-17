@@ -19,8 +19,7 @@ namespace AdventureArchive.Models
 
         [Required]
         [Display(Name = "Class")]
-        //todo
-        //public Class Class { get; set; }
+        public Class Class { get; set; }
 
         [Display(Name = "Level")]
         public int Level { get; set; }
